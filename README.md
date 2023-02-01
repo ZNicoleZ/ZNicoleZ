@@ -1,5 +1,5 @@
 ### Hi! I'm Nicole👋👩🏻‍💻
-<img src="https://user-images.githubusercontent.com/80704425/216030446-180b9ac6-b453-456e-9ba6-7be34207a676.png" alt="drawing" width="100%"/>
+<img src="https://user-images.githubusercontent.com/80704425/216032196-a2c2f158-a1ac-4296-b3de-417dfb1db382.png" alt="drawing" width="100%"/>
 
 <!--
 **ZNicoleZ/ZNicoleZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
