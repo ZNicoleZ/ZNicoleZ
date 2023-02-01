@@ -1,4 +1,4 @@
-### Hi! I'm Nicole👋
+# Hi! I'm Nicole👋
 <img src="https://user-images.githubusercontent.com/80704425/216032196-a2c2f158-a1ac-4296-b3de-417dfb1db382.png" alt="drawing" width="100%"/>
 I am a computer science student in my third year of study. My passion lies in solving problems and embracing new challenges. However, don't let my love for all things tech fool you! I also have a creative side that I enjoy expressing through reading, painting, and designing. So, let's just say I am a tech-savvy artist with a passion for problem-solving... and maybe a touch of quirkiness thrown in for good measure. ✨💻🎨🖌️<br />
 <br />
