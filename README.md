@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! I'm Nicole👋👩🏻‍💻
+<img src="https://user-images.githubusercontent.com/80704425/216030446-180b9ac6-b453-456e-9ba6-7be34207a676.png" alt="drawing" width="100%"/>
 
 <!--
 **ZNicoleZ/ZNicoleZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
